@@ -1,5 +1,4 @@
 import React from 'react'
-import './todoItems.css'
 
 const TodoItems = (props) => {
     const { items, deleteItem } = props
